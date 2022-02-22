@@ -8,12 +8,12 @@
     "mandante": {
       "nome": "Brasil",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://a.wattpad.com/cover/193072084-352-k344445.jpg"
     },
     "visitante": {
       "nome": "Argentina",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://pbs.twimg.com/media/EDFt41XWwAE_zB0.jpg"
     }
   }
 ]
